@@ -5,7 +5,7 @@ This is important because this is one of the first function IXL Bot there is.
 # What can it do
 
 it can:
-scrape questions and answers 
+scrape questi
 generate teacher accounts
 inflate your time! (get over 10 hours w/o doing anything)
 auto answer!
